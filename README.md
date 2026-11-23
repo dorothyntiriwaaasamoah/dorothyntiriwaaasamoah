@@ -61,6 +61,29 @@ My goal is to make marketing and business strategy more understandable, practica
 - Data & Analytics
 - Entrepreneurship
 - Business Education
+  ## Featured Project
+
+### Built For Profit (B4P) – Business Masterclass
+
+**Developed under @asantibiz | Programme created by KAN**
+
+Built For Profit is a practical business education programme designed for entrepreneurs, business owners, founders and professionals seeking to build more intentional, profitable and sustainable businesses.
+
+The programme explores 10 interconnected areas of business development, including business mindset, product and customer knowledge, content marketing, advertising, influencer marketing, financial management and future planning.
+
+My work on this project involved bringing together business and marketing concepts into a structured learning experience, developing the programme's direction and content, and creating its digital presentation.
+
+**Key areas demonstrated:**
+- Programme planning and content organisation
+- Business and marketing education
+- Learning experience development
+- Digital content and communication
+- Practical, application-focused learning
+
+**Explore the project:** [View the Built For Profit Landing Page](https://www.asantibiz.com/programs/built-for-profit)
+
+**Organisation:** @asantibiz  
+**Professional brand:** KAN (Kaakyire Akosua Ntiriwaa)
 
 ## My Philosophy
 
